@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Public  Git- Repository
 <br>
-Author -Namratha Chikkudu(Student)
+Author - Namratha Chikkudu(Student)
